@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-image: url(imagenes/fondo.jpg);
+  background-size: cover;
+  
+}
+
+h1, h3 {text-align: center;}
+h2 {text-align: right}
+
+
+.imagen{
+  text-align: center;
+}
